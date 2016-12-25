@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>WeatherBuster</name>
+<widget id="com.shivambharadwaj.firstapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Weather Buster</name>
     <description>
-        A blank PhoneGap app.
+        A Simple App which lets you search for weather in city by city name. Currently it reports Status such as Rainy Day, Cloudy, Clear or Foggy.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="shivamb45@yahoo.in" href="http://shivambharadwaj.com/">
         PhoneGap Team
     </author>
     <content src="index.html" />

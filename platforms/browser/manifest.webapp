@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "description": "Description of your app",
+  "name": "Weather Buster",
+  "description": "The App to tell about weather",
   "launch_path": "/index.html",
   "icons": {
     "128": "/img/logo.png"

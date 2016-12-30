@@ -1,12 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>WeatherBuster</name>
+<widget id="com.shivambharadwaj.firstapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Weather Buster</name>
     <description>
-        A blank PhoneGap app.
+        A Simple App which lets you search for weather in city by city name. Currently it reports Status such as Rainy Day, Cloudy, Clear or Foggy.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="shivamb45@yahoo.in" href="http://shivambharadwaj.com/">
         PhoneGap Team
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon src="weatherBus.png" />
+    <icon platform="android" qualifier="ldpi" src="weatherBus.png" />
+    <icon platform="android" qualifier="mdpi" src="weatherBus.png" />
+    <icon platform="android" qualifier="hdpi" src="weatherBus.png" />
+    <icon platform="android" qualifier="xhdpi" src="weatherBus.png" />
+    <icon platform="android" qualifier="xxhdpi" src="weatherBus.png" />
+    <icon platform="android" qualifier="fr-xxhdpi" src="weatherBus.png" />
 </widget>

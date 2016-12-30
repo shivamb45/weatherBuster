@@ -16,5 +16,4 @@
     <icon src="weatherBus.png" platform="android" qualifier="xhdpi" />
     <icon src="weatherBus.png" platform="android" qualifier="xxhdpi" />
     <icon src="weatherBus.png" platform="android" qualifier="fr-xxhdpi" />
-
 </widget>
